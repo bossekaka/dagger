@@ -1,2 +1,2 @@
 # dagger
-evaluate dagger within drop-wizard
+Evaluate dagger within drop-wizard.
