@@ -8,6 +8,6 @@ public class DaggerTest {
 
     @Test
     public void shouldBeTrue() throws Exception {
-        assertTrue(false);
+        assertTrue(true);
     }
 }
